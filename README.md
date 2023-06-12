@@ -28,23 +28,29 @@
 
 ## 这是我们代码运行的结果
 
-<img width="1077" alt="b96923c1850845760c46151f3fe6325" src="https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/39063dea-f795-4126-bda3-f7d6c78ff4e5">
 
 
-<img width="653" alt="be2cf7b4fc14468c06ca3a3c038b1ea" src="https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/40864595-a444-4264-8efd-ba87b4426bbb">
+<img width="685" alt="d688be35743700b3f803f532a9f38e8" src="https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/ff1ca425-5f70-4554-8d54-16b3f515b53f">
+
+
+![image](https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/2f08d70d-2b03-485f-a311-71c131539a9e)
 
 
 
 ## 开源的代码运行的结果
 
-<img width="728" alt="4acd98abd1209928e5b913f66491029" src="https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/95f53477-5a51-483e-be20-6f9f3a2e460e">
 
 
-<img width="536" alt="e23d9f3a93ad02f84d03dfebf9869f6" src="https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/bb5a0bc2-7028-47c5-b5f4-46eddad85ebd">
+
+<img width="504" alt="02d9f62f2a7a647c2dc70987b47f413" src="https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/d615147e-6857-4041-958c-34b858431644">
+
+
+
+![image](https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/1253b4e6-379d-4ebe-961f-4ed42cb42bac)
 
 
 # 主函数
 
+![image](https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/60bbaa9e-750e-45ca-9685-500fc685779d)
 
-![image](https://github.com/IC-glb/C-_BignumsCalculation/assets/130474373/ea568f87-37de-4811-8bc1-271b281051c2)
 
